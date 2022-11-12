@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://gmail.com',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'NovelUpdates',
+			icon: 'book',
+			link: 'https://novelupdates.com/',
 		},
 	],
 
@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'My Playlist',
+					link: 'https://youtube.com/playlist?list=PLrFjKSAGf2d4swL-Jwnqb1l_kWKsQKpet',
 				},
 				{
 					name: 'Classic',
@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'twitch',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Nyanners',
+					link: 'https://www.twitch.tv/nyanners',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Mouse',
+					link: 'https://www.twitch.tv/ironmouse',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Aethel',
+					link: 'https://www.twitch.tv/lordaethelstan',
 				},
 			],
 		},
